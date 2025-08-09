@@ -87,4 +87,4 @@ Queries are MySQL 8.0 compatible.
 
 The dataset is small enough for quick tests but can be scaled up.
 
-    ON e.reportsTo = m.employeeID;
+## LINKEDIN : https://www.linkedin.com/in/rohit-gillela
