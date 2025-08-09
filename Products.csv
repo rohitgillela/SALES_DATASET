@@ -1,0 +1,101 @@
+product id	product name	quantityperunit	unitprice	discontinued	categoryid
+1	Classic Wooden Chair	15 pcs	23.45	0	3
+2	Stainless Steel Knife Set	8 pcs	7.89	1	7
+3	Organic Green Tea	12 pcs	45	0	1
+4	Leather Wallet	10 pcs	32.5	0	4
+5	Wireless Mouse	6 pcs	12.99	1	2
+6	Cotton Bath Towels	20 pcs	9.5	0	5
+7	Bluetooth Speaker	3 pcs	55.25	0	8
+8	Ceramic Coffee Mug	9 pcs	15	0	6
+9	LED Desk Lamp	7 pcs	5.75	1	2
+10	Running Shoes	11 pcs	18.8	0	9
+11	Portable Charger	13 pcs	27	0	3
+12	Silk Scarf	5 pcs	14.6	1	7
+13	Gaming Keyboard	14 pcs	33.33	0	1
+14	Electric Kettle	4 pcs	41.2	0	4
+15	Fitness Tracker	17 pcs	10	0	5
+16	Noise Cancelling Headphones	6 pcs	22.22	1	8
+17	Cotton T-shirt	8 pcs	19.99	0	6
+18	Smartphone Case	12 pcs	30	0	9
+19	Desk Organizer	15 pcs	11.5	1	2
+20	Water Bottle	10 pcs	40	0	3
+21	Wireless Earbuds	7 pcs	29.99	0	1
+22	Insulated Lunch Box	10 pcs	13.49	1	4
+23	Bamboo Cutting Board	5 pcs	24	0	5
+24	Yoga Mat	18 pcs	16.75	0	8
+25	Ceramic Vase	9 pcs	27.3	0	6
+26	Stainless Steel Water Bottle	3 pcs	44.4	1	2
+27	LED Flashlight	12 pcs	38.25	0	9
+28	Memory Foam Pillow	6 pcs	22.1	0	3
+29	Digital Alarm Clock	14 pcs	31.99	1	7
+30	Travel Backpack	8 pcs	19.45	0	1
+31	Noise Machine	11 pcs	15	0	4
+32	Scented Candles Set	13 pcs	21.75	0	5
+33	Smart Home Hub	10 pcs	17.9	1	8
+34	Leather Belt	7 pcs	36.5	0	6
+35	Cotton Bedsheet Set	4 pcs	13.2	0	2
+36	Electric Toothbrush	16 pcs	12.99	1	9
+37	Rechargeable Fan	9 pcs	20	0	3
+38	Photo Frame	5 pcs	33.33	0	7
+39	Wireless Keyboard	12 pcs	40	0	1
+40	Outdoor Tent	6 pcs	29.99	1	4
+41	Portable Blender	8 pcs	18.75	0	5
+42	Office Chair	14 pcs	25.5	0	8
+43	LED Monitor	7 pcs	30	1	6
+44	Electric Grill	10 pcs	22.22	0	2
+45	Wireless Charger	9 pcs	19.95	0	9
+46	HD Webcam	11 pcs	16.5	0	3
+47	Travel Mug	3 pcs	14.4	1	7
+48	Stainless Steel Cookware Set	13 pcs	24	0	1
+49	Smart Thermostat	15 pcs	26.75	0	4
+50	Electric Scooter	6 pcs	33.33	0	5
+51	Adjustable Dumbbells	8 pcs	21	1	8
+52	Waterproof Speaker	12 pcs	28.45	0	6
+53	Bluetooth Headset	10 pcs	19.99	0	2
+54	Camping Hammock	5 pcs	20.5	0	9
+55	Fitness Ball	14 pcs	23.75	1	3
+56	Digital Camera	9 pcs	30	0	7
+57	Cotton Hoodie	7 pcs	17.99	0	1
+58	Wireless Router	11 pcs	25	0	4
+59	Air Purifier	6 pcs	15.75	1	5
+60	Kitchen Knife Set	13 pcs	22.1	0	8
+61	Smartwatch	10 pcs	19.5	0	6
+62	Camping Stove	5 pcs	27	0	2
+63	Electric Blanket	9 pcs	33.33	1	9
+64	Noise Cancelling Earphones	8 pcs	21.99	0	3
+65	Tablet Stand	12 pcs	24.75	0	7
+66	LED Strip Lights	4 pcs	30.5	0	1
+67	Portable Power Bank	15 pcs	16.8	1	4
+68	Adjustable Desk	7 pcs	18.99	0	5
+69	Wireless Security Camera	11 pcs	23.5	0	8
+70	Smart Light Bulbs	6 pcs	20.25	0	6
+71	Electric Pressure Cooker	14 pcs	28.4	1	2
+72	Portable Air Conditioner	10 pcs	22	0	9
+73	Noise Machine	8 pcs	19.5	0	3
+74	Smart Door Lock	13 pcs	26.75	0	7
+75	Wireless Gaming Mouse	5 pcs	33.33	0	1
+76	Rechargeable LED Lantern	9 pcs	15.99	1	4
+77	Smartphone Tripod	7 pcs	21	0	5
+78	Electric Wine Opener	12 pcs	23.45	0	8
+79	Robot Vacuum Cleaner	10 pcs	19.99	0	6
+80	Portable Projector	6 pcs	24	0	2
+81	Smart Scale	11 pcs	27.75	1	9
+82	Electric Hair Trimmer	8 pcs	20.99	0	3
+83	Smart Plug	14 pcs	25.5	0	7
+84	Air Fryer	5 pcs	19	0	1
+85	Waterproof Phone Case	9 pcs	18.75	1	4
+86	Wireless Charging Pad	7 pcs	22.5	0	5
+87	Smart Smoke Detector	12 pcs	30	0	8
+88	Bluetooth Car Adapter	10 pcs	21.99	0	6
+89	USB-C Hub	6 pcs	24.99	0	2
+90	Smart Garden Sensor	13 pcs	26	1	9
+91	Wireless Presenter	9 pcs	19.5	0	3
+92	Electric Heated Blanket	8 pcs	22.75	0	7
+93	Smartphone Gimbal	11 pcs	30	0	1
+94	LED Night Light	5 pcs	16.5	0	4
+95	Wireless Earphones	14 pcs	24	1	5
+96	Smart Water Bottle	7 pcs	18.99	0	8
+97	Electric Scooter Helmet	10 pcs	21	0	6
+98	Portable Solar Charger	6 pcs	23.5	0	2
+99	Smart Pet Feeder	12 pcs	19.75	0	9
+100	Smart Bike Lock	8 pcs	25	1	3
